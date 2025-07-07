@@ -21,12 +21,12 @@ A visually interactive **Power BI Dashboard** created for analyzing pizza sales 
 ## 🛠 Tools Used
 
 - **Power BI**
-- **SQL / M Query Language**
+- **SQL Server**
 - **Pizza Sales Dataset (CSV)**
 
 ## 📂 Files Included
 
-- `pizza_queries.sql` – SQL or Power Query M used for data cleaning and modeling
+- `pizza_queries.sql` – SQL Server used for finding insights and measures
 - `pizza-dashboard-1.png` – Screenshot of main dashboard
 - `pizza-dashboard-2.png` – Screenshot of best/worst sellers analysis
 
